@@ -1,6 +1,15 @@
-### Hi there 👋
+## Aqui é o perfil do Erikson!
+
+Algumas estatísticas do meu perfil:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriksonps&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriksonps&layout=compact)](https://github.com/eriksonps/github-readme-stats)
 
 <!--
+Conteudo original do arquivo
+
+### Hi there 👋
+
 **eriksonps/eriksonps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
